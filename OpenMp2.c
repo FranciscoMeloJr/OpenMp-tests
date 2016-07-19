@@ -7,6 +7,9 @@
   
   NUMA
     So addresses are closer to the process
+
+  There is a cache hierarch on that.
+  
 */
 //Main Program:
 int main()
