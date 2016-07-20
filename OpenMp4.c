@@ -4,7 +4,7 @@
 /*
   SPMD strategy:
    request the number of threads
-
+   but this is false sharing, since each thread has its own part of the vector
   */
 static long num_steps = 100;
 
